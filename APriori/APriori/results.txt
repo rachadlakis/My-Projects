@@ -1,0 +1,6 @@
+Associaiton Rules for support = 30.0 and confidecne = 0.6
+
+[Coffee, Keeping It Local] -> Keeping It Local
+[Coffee, Toast] -> Toast
+[Coffee, Salad] -> Salad
+[Coffee, Extra Salami or Feta] -> Extra Salami or Feta
