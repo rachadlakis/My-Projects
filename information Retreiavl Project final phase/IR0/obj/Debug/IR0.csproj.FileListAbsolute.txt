@@ -1,0 +1,9 @@
+c:\users\lakis\documents\visual studio 2012\Projects\IR0\IR0\bin\Debug\IR0.exe.config
+c:\users\lakis\documents\visual studio 2012\Projects\IR0\IR0\bin\Debug\IR0.exe
+c:\users\lakis\documents\visual studio 2012\Projects\IR0\IR0\bin\Debug\IR0.pdb
+c:\users\lakis\documents\visual studio 2012\Projects\IR0\IR0\obj\Debug\IR0.csprojResolveAssemblyReference.cache
+c:\users\lakis\documents\visual studio 2012\Projects\IR0\IR0\obj\Debug\IR0.Form1.resources
+c:\users\lakis\documents\visual studio 2012\Projects\IR0\IR0\obj\Debug\IR0.Properties.Resources.resources
+c:\users\lakis\documents\visual studio 2012\Projects\IR0\IR0\obj\Debug\IR0.csproj.GenerateResource.Cache
+c:\users\lakis\documents\visual studio 2012\Projects\IR0\IR0\obj\Debug\IR0.exe
+c:\users\lakis\documents\visual studio 2012\Projects\IR0\IR0\obj\Debug\IR0.pdb
